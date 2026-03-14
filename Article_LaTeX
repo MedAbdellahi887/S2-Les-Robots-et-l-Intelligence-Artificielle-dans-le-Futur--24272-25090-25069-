@@ -1,0 +1,134 @@
+\documentclass[aspectratio=169]{beamer}
+
+\usetheme{Madrid}
+\usepackage{tikz}
+\usepackage{ragged2e}
+\usepackage{pgfplots}
+\usepackage{graphicx}
+\pgfplotsset{compat=1.18}
+
+
+\setbeamertemplate{background}{
+\begin{tikzpicture}[remember picture,overlay]
+\fill[white] (current page.south west) rectangle (current page.north east);
+\fill[blue!80] (current page.south west) rectangle ([xshift=0.4cm]current page.north west);
+\end{tikzpicture}
+}
+
+\setbeamertemplate{navigation symbols}{}
+\setbeamercolor{frametitle}{fg=white}
+\setbeamerfont{frametitle}{series=\bfseries}
+
+\title{\textbf{Les Robots et l’Intelligence Artificielle dans le Futur}}
+\subtitle{Comment vont-ils transformer nos vies ?}
+\author{24272 \\ 25090 \\ 25069}
+\institute{Présentation PPP2}
+\date{\today}
+
+\begin{document}
+
+\begin{frame}
+\titlepage
+\end{frame}
+
+\begin{frame}{Menu de la Présentation}
+\centering
+\color{blue!70}
+\begin{itemize}
+    \item \hyperlink{Introduction}{Introduction}
+    \item[] \rule{7cm}{0.4pt} 
+    \item \hyperlink{Croissance}{Croissance de l’IA}
+    \item[] \rule{7cm}{0.4pt}
+    \item \hyperlink{Travail}{Impact sur le Travail}
+    \item[] \rule{7cm}{0.4pt}
+    \item \hyperlink{Secteur}{Impact par Secteur}
+    \item[] \rule{7cm}{0.4pt}
+    \item \hyperlink{Applications}{Applications concrètes}
+    \item[] \rule{7cm}{0.4pt}
+    \item \hyperlink{Conclusion}{Conclusion}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Introduction}
+\justifying
+L’intelligence artificielle (IA) et les robots connaissent une évolution rapide et transforment déjà notre société.
+\begin{itemize}
+    \item Automatisation des tâches
+    \item Innovation technologique
+    \item Transformation sociale
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Croissance de l’IA dans le monde}
+\centering
+\includegraphics[width=0.9\linewidth]{graphe1.png}
+\addlegendentry{Adoption de l’Intelligence Artificielle dans le monde (2020–2030)}
+\end{frame}
+
+\begin{frame}{Impact sur le Travail}
+\begin{itemize}
+    \item Automatisation des tâches répétitives
+    \item Création de nouveaux métiers technologiques
+    \item Augmentation de la productivité
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Impact de l’IA par secteur}
+\centering
+\includegraphics[width=0.9\linewidth]{graphe2.png}
+\addlegendentry{Impact de l’IA par secteur : Santé, Industrie, Éducation, Transport, Finance}
+\end{frame}
+
+\begin{frame}{Applications Concrètes de l’IA et des Robots}
+\begin{itemize}
+    \item Robot chirurgical – Médecine moderne
+    \item Voitures autonomes intelligentes
+    \item Robots industriels dans les usines
+    \item Robots humanoïdes interactifs
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Robot Chirurgical}
+\centering
+\includegraphics[width=1\linewidth]{médecin.jpg}
+
+\vspace{0.3cm}
+
+\end{frame}
+
+\begin{frame}{Voitures Autonomes}
+\centering
+\includegraphics[width=1\linewidth]{voiture.jpg}
+
+\vspace{0.3cm}
+
+\end{frame}
+
+\begin{frame}{Robot Industriel}
+\centering
+\includegraphics[width=1\linewidth]{indistriel.jpg}
+
+\vspace{0.3cm}
+
+\end{frame}
+
+\begin{frame}{Robot Humanoïde}
+\centering
+\includegraphics[width=1\linewidth]{sophia.jpg}
+
+\vspace{0.3cm}
+
+\end{frame}
+
+
+\begin{frame}{Conclusion}
+Les robots et l’intelligence artificielle façonneront l’avenir de notre société.  
+Le défi consiste à utiliser ces technologies de manière responsable afin d’en maximiser les bénéfices.
+\end{frame}
+
+\begin{frame}
+\centering
+\Huge Merci pour votre attention
+\end{frame}
+
+\end{document}
