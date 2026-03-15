@@ -1,8 +1,19 @@
 # Projet PPP2 – Robots et Intelligence Artificielle
-Ce projet est une présentation réalisée avec LaTeX (Beamer) sur le thème
-des robots et de l’intelligence artificielle dans le futur.
 
-## Titre : Les Robots et l’Intelligence Artificielle dans le Futur Comment vont-ils transformer nos vies ?
+## Titre de la présentation
+**Les Robots et l’Intelligence Artificielle dans le Futur : Comment vont-ils transformer nos vies ?**
+
+## Description courte
+Ce projet est une présentation réalisée avec LaTeX (Beamer) sur le thème des robots et de l’intelligence artificielle (IA) dans le futur. Il explore leur impact sur la société, le travail, et différents secteurs d’activité.
+
+## Description détaillée
+L’intelligence artificielle et les robots évoluent rapidement et transforment déjà notre quotidien. Cette présentation explique :  
+- L’évolution de l’IA dans le monde et ses tendances futures.  
+- L’impact de l’IA sur le travail, l’automatisation et la création de nouveaux métiers.  
+- L’utilisation de l’IA dans différents secteurs : santé, industrie, éducation, transport et finance.  
+- Des applications concrètes : robots chirurgicaux, voitures autonomes, robots industriels et humanoïdes.  
+
+L’objectif du projet est de comprendre comment ces technologies peuvent façonner notre vie et notre avenir, et comment les utiliser de manière responsable.
 
 ## Membres du projet
 
@@ -12,11 +23,18 @@ des robots et de l’intelligence artificielle dans le futur.
 | 25090     | Mohamed Abdou Kbad       |
 | 25069     | Abu Ba                   |
 
-## Contenu
-- **Article_LaTeX** : code source de la présentation (fichier .tex).
-- **Presentation** : fichier PDF de la présentation et les images utilisées.
-- **Questionnaire** : questionnaire réalisé avec Google Forms.
-- **Analyse_Excel** : graphiques Excel utilisés dans la présentation, basés sur les réponses du formulaire.
+## Contenu du projet
 
-## Description :
-  Ce projet présente le rôle des robots et de l’intelligence artificielle dans le futur et leur impact sur notre société. Il explique l’évolution rapide de l’IA, son influence sur le monde du travail et son utilisation dans plusieurs secteurs comme la santé, l’industrie, l’éducation et le transport. La présentation montre également des exemples concrets d’applications, comme les robots chirurgicaux, les voitures autonomes et les robots industriels. L’objectif est de comprendre comment ces technologies peuvent transformer notre vie et notre avenir.
+- **Article_LaTeX** : code source de la présentation (fichier `.tex`).  
+- **Presentation** : fichier PDF de la présentation et les images utilisées.  
+- **Questionnaire** : questionnaire réalisé avec Google Forms.  
+- **Analyse_Excel** : graphiques Excel utilisés dans la présentation, basés sur les réponses du formulaire.  
+
+
+## Technologies utilisées
+- **LaTeX (Beamer)** pour la présentation  
+- **Excel** pour l’analyse et les graphiques  
+- **Google Forms** pour le questionnaire  
+
+## Remarques
+Ce projet est réalisé dans le cadre du PPP2. Toutes les images et données sont utilisées à des fins éducatives et de démonstration.
