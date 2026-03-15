@@ -4,13 +4,13 @@ des robots et de l’intelligence artificielle dans le futur.
 
 ## Titre : Les Robots et l’Intelligence Artificielle dans le Futur Comment vont-ils transformer nos vies ?
 
-## les membres :
--Matricule : 24272
-Nom : Med.Abdellahi/Baba Ahmed
--Matricule : 25090
-Nom : Mohamed Abdou Kbad
--Matricule : 25069
-Nom : Abu Ba
+## Membres du projet
+
+| Matricule | Nom complet |
+|-----------|------------|
+| 24272     | Med. Abdellahi Baba Ahmed |
+| 25090     | Mohamed Abdou Kbad       |
+| 25069     | Abu Ba                   |
 
 ## Contenu
 - **Article_LaTeX** : code source de la présentation (fichier .tex).
