@@ -122,8 +122,9 @@ L’intelligence artificielle (IA) et les robots connaissent une évolution rapi
 
 
 \begin{frame}{Conclusion}
-Les robots et l’intelligence artificielle façonneront l’avenir de notre société.  
-Le défi consiste à utiliser ces technologies de manière responsable afin d’en maximiser les bénéfices.
+Les robots et l’intelligence artificielle vont jouer un rôle très important dans notre futur.
+Ils peuvent améliorer la productivité et faciliter beaucoup de tâches dans différents domaines comme la santé, l’industrie et le transport.
+Cependant, il est nécessaire d’utiliser ces technologies de manière responsable afin de profiter de leurs avantages tout en réduisant leurs risques.
 \end{frame}
 
 \begin{frame}
